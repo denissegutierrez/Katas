@@ -1,0 +1,2 @@
+# Katas
+OnBoarding Katas
